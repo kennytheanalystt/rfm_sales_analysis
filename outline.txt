@@ -1,0 +1,29 @@
+A advance general portfolio project with sql and tableu
+
+Sales analysis report!
+
+Outline:
+
+Tittle SALES ANALYSIS REPORT WITH SQL AND TABLEAU
+
+subtittle/Objective: Analyzing Sales Data to identify Trends and KPI's
+
+Scope: In this  article;
+ * What is Sales Analysis and Report?
+ * What are KPI's?
+ * Sales data and how to get them.
+ * RFM analysis, and What it is?.	
+ * Analyze a Sales data of an imaginary store.
+ * Make Visuals/Dashboard & Report from the analysis above.
+ * Finally, Elaborate about why Sales analysis is import for business's and how it can benefit them.
+
+Target: Bussiness analyst, Data analyst, Bussiness managers.
+
+Prerequisite:  
+
+body:  SQL; Data cleaning and analysis.
+       Tableau; Visualization and report
+
+conclusion:
+
+watermark: 
