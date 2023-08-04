@@ -991,6 +991,21 @@ A KPI dashboard is a visual tool that presents Key Performance Indicators (KPIs)
 
 <br>
 
+Design and Development:
+The above KPI Dashboard was designed using Tableau, a powerful data visualization tool. It incorporates essential sales metrics, such as total revenue, sales growth, conversion rate, average deal size, and customer acquisition cost. The data is extracted from the sales database and refreshed in real-time to ensure the dashboard's accuracy and up-to-date insights.
+
+Dashboard Components:
+
+1. Sales Overview: This section presents an overview of total sales revenue, total profit, average sales and total quantity sold through the year 2014-2017.
+
+2. Sales by Region: A geographical representation of sales revenue across different regions, providing insights into regional performance and potential areas for expansion.
+
+3. Top Performing Products: This component displays the top-selling products based on revenue, helping sales teams identify high-value offerings and strategize product promotions.
+
+4. Monthly Sales Trend Chart: The chart displays monthly sales data for each year in a multi-line format, allowing for easy comparison and identification of trends. Different colors represent each year's sales performance, enabling quick identification of seasonal patterns.
+
+<br>
+
 This article delves into the power of sales analysis through the lens of RFM (Recency, Frequency, Monetary Value) and KPI (Key Performance Indicators). It highlights how RFM analysis allows businesses to understand customer behavior and segmentation, leading to personalized strategies and improved customer retention. The article also emphasizes the significance of KPIs in measuring sales performance, guiding decision-making, and optimizing marketing efforts. Together, RFM and KPI form a dynamic duo, empowering businesses to unlock valuable insights, enhance sales strategies, and achieve data-driven success.
 
 <br>
